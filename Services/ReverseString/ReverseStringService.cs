@@ -3,8 +3,11 @@ public class ReverseStringService : IReverseStringService
 {
     public string ReverseString(string forwards)
     {
-        char[] charArray = forwards.ToCharArray();
-        Array.Reverse(charArray);
-        return new string(charArray);
+        string backwards = "";
+        
+        for(int i = forwards.Length - 1; i>= 0; i--) {
+            backwards += forwards[i];
+        }
+        return backwards;
     }
 }

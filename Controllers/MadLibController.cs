@@ -15,8 +15,8 @@ public class MadLibController : ControllerBase {
     }
 
     [HttpGet]
-    [Route("madlib/{person}/{adj}")]
-    public string MadLib(string person, string adj){
-        return _madLibService.MadLib(person, adj);
+    [Route("madlib/{person}/{adj}/{age}/{place}/{activity}/{personTwo}/{adjTwo}/{ageTwo}/{placeTwo}/{activityTwo}")]
+    public string MadLib(string person, string adj, string age, string place, string activity, string personTwo, string adjTwo, string ageTwo, string activityTwo, string placeTwo){
+        return _madLibService.MadLib(person, adj, age, place, activity, personTwo, adjTwo, ageTwo, activityTwo, placeTwo);
     }
 }

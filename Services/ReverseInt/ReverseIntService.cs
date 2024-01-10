@@ -10,9 +10,12 @@ public class ReverseIntService : IReverseIntService
         bool numIsTrue = int.TryParse(num, out numParsed);
         
         if(numIsTrue) {
-            char[] charArray = num.ToCharArray();
-            Array.Reverse(charArray);
-            return new string(charArray);
+            string backwards = "";
+
+            for(int i = num.Length - 1; i>= 0; i--) {
+                backwards += num[i];
+            }
+            return backwards;
         }
         return $"{num} is not valid";
     }
