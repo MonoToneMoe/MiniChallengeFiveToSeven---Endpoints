@@ -1,0 +1,33 @@
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\appsettings.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.exe
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.deps.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.runtimeconfig.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.pdb
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.csproj.AssemblyReference.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.AssemblyInfoInputs.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.AssemblyInfo.cs
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.csproj.CoreCompileInputs.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.MiniChallengeFiveToSeven - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.build.MiniChallengeFiveToSeven - Endpoints.props
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MiniChallengeFiveToSeven - Endpoints.props
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MiniChallengeFiveToSeven - Endpoints.props
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\scopedcss\bundle\MiniChallengeFiveToSeven - Endpoints.styles.css
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.csproj.CopyComplete
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\refint\MiniChallengeFiveToSeven - Endpoints.dll
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.pdb
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\MiniChallengeFiveToSeven - Endpoints.genruntimeconfig.cache
+C:\Users\George\Nextcloud\Codestack\Level 2\Assignments\MiniChallengeFiveToSeven - Endpoints\obj\Debug\net7.0\ref\MiniChallengeFiveToSeven - Endpoints.dll
